@@ -18,14 +18,14 @@ function Contact() {
                 years of experience.
               </p>
               <a href="/">
-                <IconPhone /> &nbsp; (123) 456-7869
+                <IconPhone /> &nbsp; +1 xxx-xxx
               </a>
               <a href="/">
                 <IconMail /> &nbsp; carrental@carmail.com
               </a>
               <a href="/">
                 <IconLocation />
-                &nbsp; Belgrade, Serbia
+                &nbsp; U.S.A
               </a>
             </div>
             <div className="contact-div__form">
@@ -60,7 +60,7 @@ function Contact() {
               <h2>Book a car by getting in touch with us</h2>
               <span>
                 <IconPhone width={40} height={40} />
-                <h3>(123) 456-7869</h3>
+                <h3>+1 xxx-xxx</h3>
               </span>
             </div>
           </div>
